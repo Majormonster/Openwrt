@@ -1,0 +1,5 @@
+# NAME: YouTube
+rules:
+- DOMAIN-KEYWORD,quickconnect,DIRECT
+- DOMAIN-KEYWORD,synology,DIRECT
+- SRC-IP-CIDR,192.168.1.204/32,DIRECT
